@@ -44,8 +44,8 @@ body{
 
 @media screen and (min-width: 850px){
     .img-thumbnail{
-    margin-left: 10px;
-}
+        margin-left: 10px;
+    }
 
 .well{
     padding: 5px;
@@ -65,4 +65,12 @@ body{
     margin-left: 0px;
     margin-right: 0px;
 }
+}
+
+@media screen and (max-width: 849px){
+
+    .img-thumbnail{
+        margin-left: 9vw;
+    }
+
 }
