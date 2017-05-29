@@ -1,0 +1,68 @@
+body{
+    background-color: grey;
+}
+
+.img-thumbnail{
+    padding: 0;
+}
+
+.well{
+    background-color: darkgrey;
+}
+
+.jumbotron{
+    margin-left: 0px;
+}
+
+.navlink{
+    color:black;
+}
+
+.navlinks{
+    color: white;
+}
+
+.date{
+    color: black;
+}
+
+.footer{
+    background-color: rgb(61,61,61);
+    color: gray;
+    height: 120px;
+    padding: 20px;
+}
+
+#cabecera{
+    margin: 0px;
+    width: 100%;
+}
+
+#loadMore {
+        margin-left: 35%;
+}
+
+@media screen and (min-width: 850px){
+    .img-thumbnail{
+    margin-left: 10px;
+}
+
+.well{
+    padding: 5px;
+    margin-left: 30px;
+    margin-right: 320px;
+}
+
+#h4{
+    float: bottom;
+}
+
+.img-thumbnail, .new-desc{
+    display: inline;
+}
+
+#banner{
+    margin-left: 0px;
+    margin-right: 0px;
+}
+}
