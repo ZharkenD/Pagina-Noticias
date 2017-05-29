@@ -24,7 +24,7 @@ function createNews(json) {
         titular = news.titular;
         date = news.date;
         desc = news.desc;
-        $("#newsid").append('<div class="well"><div class="row"><h1 class="titular col-sm-2">' + titular + '</h1><h4 class="date col-sm-6">'+ date +'</h4></div><div class="row"><a href="#"><img src="' + img + '" class="img-thumbnail col-sm-3" alt="thumbnail" width="280"></a><p class="new-desc col-sm-8">'+ desc +'</p></div></div>');
+        $("#newsid").append('<div class="row" id="newsid"><div class="col-sm-9"><div class="well"><div class="row"><h1 class="titular col-sm-2">' + titular + '</h1><h4 class="date col-sm-6">'+ date +'</h4></div><div class="row"><a id="redirect" href="#"><img src="' + img + '" class="img-thumbnail col-sm-3" alt="thumbnail" width="280"></a><p class="new-desc col-sm-8">'+ desc +'</p></div></div></div>');
     });
 }
 
