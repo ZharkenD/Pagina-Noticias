@@ -20,106 +20,116 @@
 
 <body>
 
-  <nav class="navbar navbar-inverse navbar-fixed-top">
-    <div class="container-fluid">
-      <div class="navbar-header">
-        <button type="button" class="navbar-toggle" data-toggle="collapse" data-target="#myNavbar">
+  <div class="body">
+
+    <nav class="navbar navbar-inverse navbar-fixed-top">
+      <div class="container-fluid">
+        <div class="navbar-header">
+          <button type="button" class="navbar-toggle" data-toggle="collapse" data-target="#myNavbar">
         <span class="icon-bar"></span>
         <span class="icon-bar"></span>
         <span class="icon-bar"></span>
       </button>
-        <a class="navbar-brand" href="#">SuperNEWS</a>
+          <a class="navbar-brand" href="#">SuperNEWS</a>
+        </div>
+        <div class="collapse navbar-collapse" id="myNavbar">
+          <ul class="nav navbar-nav">
+            <li class="active"><a href="#">Home</a></li>
+            <li><a class="navlink" href="#">Page 1</a></li>
+            <li><a class="navlink" href="#">Page 2</a></li>
+            <li><a class="navlink" href="#">Page 3</a></li>
+          </ul>
+          <ul class="nav navbar-nav navbar-right">
+            <li><a href="#"><span class="glyphicon glyphicon-user"></span> Sign Up</a></li>
+            <li><a href="#"><span class="glyphicon glyphicon-log-in"></span> Login</a></li>
+          </ul>
+        </div>
       </div>
-      <div class="collapse navbar-collapse" id="myNavbar">
-        <ul class="nav navbar-nav">
-          <li class="active"><a href="#">Home</a></li>
-          <li><a class="navlink" href="#">Page 1</a></li>
-          <li><a class="navlink" href="#">Page 2</a></li>
-          <li><a class="navlink" href="#">Page 3</a></li>
-        </ul>
-        <ul class="nav navbar-nav navbar-right">
-          <li><a href="#"><span class="glyphicon glyphicon-user"></span> Sign Up</a></li>
-          <li><a href="#"><span class="glyphicon glyphicon-log-in"></span> Login</a></li>
-        </ul>
+    </nav>
+
+    <br><br><br>
+
+    <div class="container" id="cabecera">
+      <div class="jumbotron">
+        <h1>Bienvenidos a SuperNEWS</h1>
+        <p>Noticias de cuestionable importancia que sin duda cambiarán tu forma de ver el mundo</p>
       </div>
     </div>
-  </nav>
 
-  <br><br><br>
+    <div class="row" id="newsid">
+      <div class="col-sm-9">
 
-  <div class="container" id="cabecera">
-    <div class="jumbotron">
-      <h1>Bienvenidos a SuperNEWS</h1>
-      <p>Noticias de cuestionable importancia que sin duda cambiarán tu forma de ver el mundo</p>
+        <div class="well">
+          <div class="row">
+            <a class="redirect" href="news1.html">
+              <h1 class="titular col-sm-2">Titular 1</h1>
+            </a>
+            <h4 class="date col-sm-6">xx.xx.xxxx</h4>
+          </div>
+          <div class="row">
+            <img src="img/thumb.jpg" class="img-thumbnail col-sm-3" alt="thumbnail" width="280">
+            <p class="new-desc col-sm-8">Descripcion apsodkapsdjaosfn aosijd adn asdb ka jda aushnd askjdn asdun jn saoih aksjdn oins asd n oaishdj ajksn
+              iasj lmsand oisj ljkansd oaskdj laksdmn 0piqwhe ksancfaihc
+            </p>
+          </div>
+        </div>
+
+        <div class="well">
+          <div class="row">
+            <a class="redirect" href="news2.html">
+              <h1 class="titular col-sm-2">Titular 2</h1>
+            </a>
+            <h4 class="date col-sm-6">xx.xx.xxxx</h4>
+          </div>
+          <div class="row">
+            <img src="img/thumb.jpg" class="img-thumbnail col-sm-3" alt="thumbnail" width="280">
+            <p class="new-desc col-sm-8">Descripcion apsodkapsdjaosfn aosijd adn asdb ka jda aushnd askjdn asdun jn saoih aksjdn oins asd n oaishdj ajksn
+              iasj lmsand oisj ljkansd oaskdj laksdmn 0piqwhe ksancfaihc
+            </p>
+          </div>
+        </div>
+
+        <div class="well">
+          <div class="row">
+            <a class="redirect" href="#">
+              <h1 class="titular col-sm-2">Titular 3</h1>
+            </a>
+            <h4 class="date col-sm-6">xx.xx.xxxx</h4>
+          </div>
+          <div class="row">
+            <img src="img/thumb.jpg" class="img-thumbnail col-sm-3" alt="thumbnail" width="280">
+            <p class="new-desc col-sm-8">Descripcion apsodkapsdjaosfn aosijd adn asdb ka jda aushnd askjdn asdun jn saoih aksjdn oins asd n oaishdj ajksn
+              iasj lmsand oisj ljkansd oaskdj laksdmn 0piqwhe ksancfaihc
+            </p>
+          </div>
+        </div>
+      </div>
+
+      <div id="ads" class="cols-sm-2">
+        <img id="ads" src="img/ads.jpg">
+      </div>
+
     </div>
+
+    <button type="button" id="loadMore" class="btn btn-primary btn-lg">Ver Más</button>
+
+    <br><br>
+
+    <div class="footer">
+      <ul class="footer-links">
+        <li><a href="#">Facebook</a></li>
+        <li><a href="#">Twitter</a></li>
+        <li><a href="#">Google+</a></li>
+        <li><a href="#">About</a></li>
+      </ul>
+    </div>
+
+
   </div>
 
-  <div class="row" id="newsid">
-    <div class="col-sm-9">
-
-      <div class="well">
-        <div class="row">
-          <a class="redirect" href="news1.html"><h1 class="titular col-sm-2">Titular 1</h1></a>
-          <h4 class="date col-sm-6">xx.xx.xxxx</h4>
-        </div>
-        <div class="row">
-        <img src="img/thumb.jpg" class="img-thumbnail col-sm-3" alt="thumbnail" width="280">
-          <p class="new-desc col-sm-8">Descripcion apsodkapsdjaosfn aosijd adn asdb ka jda aushnd askjdn asdun jn saoih aksjdn oins asd n oaishdj ajksn
-            iasj lmsand oisj ljkansd oaskdj laksdmn 0piqwhe ksancfaihc
-          </p>
-        </div>
-      </div>
-
-      <div class="well">
-        <div class="row">
-          <a class="redirect" href="news2.html"><h1 class="titular col-sm-2">Titular 2</h1></a>
-          <h4 class="date col-sm-6">xx.xx.xxxx</h4>
-        </div>
-        <div class="row">
-        <img src="img/thumb.jpg" class="img-thumbnail col-sm-3" alt="thumbnail" width="280">
-          <p class="new-desc col-sm-8">Descripcion apsodkapsdjaosfn aosijd adn asdb ka jda aushnd askjdn asdun jn saoih aksjdn oins asd n oaishdj ajksn
-            iasj lmsand oisj ljkansd oaskdj laksdmn 0piqwhe ksancfaihc
-          </p>
-        </div>
-      </div>
-
-      <div class="well">
-        <div class="row">
-          <a class="redirect" href="#"><h1 class="titular col-sm-2">Titular 3</h1></a>
-          <h4 class="date col-sm-6">xx.xx.xxxx</h4>
-        </div>
-        <div class="row">
-          <img src="img/thumb.jpg" class="img-thumbnail col-sm-3" alt="thumbnail" width="280">
-          <p class="new-desc col-sm-8">Descripcion apsodkapsdjaosfn aosijd adn asdb ka jda aushnd askjdn asdun jn saoih aksjdn oins asd n oaishdj ajksn
-            iasj lmsand oisj ljkansd oaskdj laksdmn 0piqwhe ksancfaihc
-          </p>
-        </div>
-      </div>
-    </div>
-
-    <div id="ads" class="cols-sm-3">
-      <img id="ads" src="img/ads.jpg">
-    </div>
-
-    <div id="adm" class="cols-sm-3">
-      <img id="adm" class="img-responsive" src="img/adm.jpg">
-    </div>
-
+  <div id="adm" class="cols-sm-3">
+    <img id="adm" class="img-responsive" src="img/adm.jpg">
   </div>
-
-  <button type="button" id="loadMore" class="btn btn-primary btn-lg">Ver Más</button>
-
-  <br><br>
-
-  <div class="footer">
-    <ul class="footer-links">
-      <li><a href="#">Facebook</a></li>
-      <li><a href="#">Twitter</a></li>
-      <li><a href="#">Google+</a></li>
-      <li><a href="#">About</a></li>
-    </ul>
-  </div>
-
 
 </body>
 
