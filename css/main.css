@@ -33,7 +33,22 @@ body{
     padding: 20px;
 }
 
-#redirect:hover{
+.redirect:link {
+    color: black;
+    text-decoration: none;
+}
+
+.redirect:visited {
+    color: black;
+    text-decoration: none;
+}
+
+.redirect:hover {
+    color: black;
+    text-decoration: none;
+}
+
+.redirect:active {
     text-decoration: none;
 }
 
@@ -50,8 +65,6 @@ body{
 .img-thumbnail{
     margin-left: 10px;
 }
-
-
 
 .well{
     padding: 5px;
@@ -70,12 +83,27 @@ body{
     margin-left: 0px;
     margin-right: 0px;
 }
+
+#adm{
+    display:none;
+}
 }
 
 @media screen and (max-width: 849px){
 
     .img-thumbnail{
         margin-left: 9vw;
+    }
+
+    #ads{
+        display:none;
+    }
+    
+    #adm{
+        z-index:1;
+        position: fixed;
+        bottom: 0px;
+        margin: 0 auto;
     }
 
 }
