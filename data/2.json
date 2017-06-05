@@ -1,20 +1,20 @@
 [
     {
-        "titular": "titular7",
-        "img": "img/thumb.jpg",
-        "desc": "dertfcvygbuhnijomks",
-        "date": "xx.xx.xxxx"
+        "titular": "Filtrada la edición coleccionista del nuevo God of War",
+        "img": "img/gow.jpg",
+        "desc": "El nuevo God of War promete ser uno de los grandes protagonistas de la Conferencia de Sony en el E3. Sin embargo como suele ser habitual se ha filtrado algo de información durante los días previos.",
+        "date": "26.05.2017"
     },
     {
-        "titular": "asdasdasdasds",
-        "img": "img/thumb.jpg",
-        "desc": "asdasfvasacdfgbvcd",
-        "date": "xx.xx.xxxx"
+        "titular": "Es oficial, Life is Strange 2 está en desarrollo",
+        "img": "img/lis2.jpg",
+        "desc": "Dontnod Entertainment acaba de anunciar que Life is Strange 2 ewstá en desarrollo. De momento no hay fecha para la presentación del juego pero esperamos nuevas noticias pronto.",
+        "date": "18.05.2017"
     },
     {
-        "titular": "titular9",
-        "img": "img/thumb.jpg",
-        "desc": "asdasdascasvasdasdasf",
-        "date": "xx.xx.xxxx"
+        "titular": "Se filtra el inicio de las Rebajas de verano de Steam",
+        "img": "img/steam.jpg",
+        "desc": "Valve ha estado enviando correos electrónicos por error a varios desarrolladores informando del inicio de las Rebajas de Verano de Steam.",
+        "date": "12.05.2017"
     }
 ]
