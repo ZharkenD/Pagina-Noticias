@@ -27,7 +27,7 @@ function crearNoticias(json) {
         $("#newsid").append('<div class="col-sm-9">'+
                                 '<div class="well">'+
                                     '<div class="row">'+
-                                        '<a class="redirect" href="#"><h1 class="titular col-sm-8">' + titular + '</h1></a>'+
+                                        '<a class="redirect" href="#"><h1 class="titular col-sm-9">' + titular + '</h1></a>'+
                                         '<h4 class="date col-sm-2">'+ date +'</h4>'+
                                         '</div><div class="row">'+
                                         '<img src="' + img + '" class="img-thumbnail col-sm-3" alt="thumbnail" width="280">'+
