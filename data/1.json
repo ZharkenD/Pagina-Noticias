@@ -1,20 +1,20 @@
 [
     {
         "titular": "Nintendo habla de resucitar la franquicia Advance Wars ",
-        "img": "img/thumb.jpg",
-        "desc": "dertfcvygbuhnijomks",
-        "date": "xx.xx.xxxx"
+        "img": "img/advance.jpg",
+        "desc": "Advance Wars es una de las sagas más añoradas por parte de los usuarios de Nintendo. Nació en Game Boy Advance y posteriormente dio el salto a Nintendo DS pero desde entonces le hemos perdido la pista.",
+        "date": "31.05.2017"
     },
     {
-        "titular": "titular5",
-        "img": "img/thumb.jpg",
-        "desc": "asdasfvasacdfgbvcd",
-        "date": "xx.xx.xxxx"
+        "titular": "Platinum Games habla de Bayonetta 3",
+        "img": "img/bayoneta3.jpg",
+        "desc": "Bayonetta vuelve a estar en boca de todo el mundo gracias al estreno del primer juego de la saga en Steam. Todo el mundo está deseando una tercera parte y esto es lo que el productor de la serie ha dicho al respecto.",
+        "date": "30.05.2017"
     },
     {
-        "titular": "titular6",
-        "img": "img/thumb.jpg",
-        "desc": "asdasdascasvasdasdasf",
-        "date": "xx.xx.xxxx"
+        "titular": "RiME estrena tráiler de lanzamiento",
+        "img": "img/rime.jpg",
+        "desc": "Seguimos con las noticias de RiME. Tequila Works nos muestra un nuevo trailer el mismo dia de salida del juego.",
+        "date": "23.05.2017"
     }
 ]
