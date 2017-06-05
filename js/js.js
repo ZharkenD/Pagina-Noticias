@@ -4,17 +4,17 @@ var fileNames = ["1.json", "2.json"];
 $(document).ready(function () {
 
     $("#loadMore").click(function () {
-        loadNews();
+        cargarNoticias();
     });
 
     $(window).scroll(function () {
         if ($(window).scrollTop() + $(window).height() == $(document).height()) {
-            loadNews();
+            cargarNoticias();
         }
     });
 });
 
-function createNews(json) {
+function crearNoticias(json) {
     var img;
     var titular;
     var date;
@@ -37,12 +37,12 @@ function createNews(json) {
     });
 }
 
-function loadNews() {
+function cargarNoticias() {
     if (countjson < fileNames.length) {
         var name = fileNames[countjson];
         countjson++;
         $.getJSON("https://rawgit.com/ZharkenD/Pagina-Noticias/master/data/" + name, function (jsonObject) {
-            createNews(jsonObject);
+            crearNoticias(jsonObject);
         });
     } else {
         alert("No hay más noticias :(");
