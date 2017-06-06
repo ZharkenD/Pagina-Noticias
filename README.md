@@ -24,4 +24,4 @@ https://rawgit.com/ZharkenD/Pagina-Noticias/master/index.html
 
 # Maquetación
 
-![Alt text](maquetacion/index.jpg?raw=true "Pagina Principal")
+![PC](https://github.com/ZharkenD/Pagina-Noticias/blob/master/maquetacion/index.jpeg "Pagina Principal")
