@@ -22,4 +22,4 @@ https://rawgit.com/ZharkenD/Pagina-Noticias/master/index.html
 - Las descripciones de las noticias en la pagina principal son más cortas de lo que se podria esperar para que
  se vea mejor la versión para móviles.
 
-
+# Maquetación
