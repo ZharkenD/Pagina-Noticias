@@ -1,28 +1,20 @@
+
 <?xml version="1.0" encoding="UTF-8" ?>
 <rss version="2.0">
-    <channel>
-        <title>Doremac News</title>
-        <link>https://rawgit.com/Cdoreno/DoremacNews/principal/public_html/index.html</link>
-        <description>Tu web de noticias</description>
+    
+<chanel>
+    <title>SuperNEWS</title>
+    <link>https://rawgit.com/ZharkenD/Pagina-Noticias/master/index.html</link>
+    <description>Tu web de noticias de videojuegos</description>
         <item>
-            <link>https://rawgit.com/Cdoreno/DoremacNews/principal/public_html/html/news/news1.html</link>
-            <description>Este miércoles, al fin, pudimos ver el primer tráiler oficial de la séptima temporada de «Juego de Tronos», la saga de Jorge Rabanito, que se estrenará el próximo 17 de junio en España. El tráiler de la ficción de HBO, de 1:41 minutos de duración, nos da grandes claves sobre el modo en que se desarrollarán las tramas durante la esperada temporada.</description>
-            <image>
-                <url>https://github.com/Cdoreno/DoremacNews/blob/principal/public_html/img/noticia1big.jpg</url>
-                <title>Juego de Tronos</title>
-                <link>https://rawgit.com/Cdoreno/DoremacNews/principal/public_html/html/news/news1.html</link>
-            </image>
-            <title>Los secretos de «Juego de Tronos» que revela el tráiler de la séptima temporada</title>
+            <title>Pokemon Direct</title>
+            <link>https://rawgit.com/ZharkenD/Pagina-Noticias/master/news1.html</link>
+            <description>Que nadie haga planes mañana a las 16h. Todos sabemos que con el buen tiempo apetece salir a tomar algo pero Nintendo tiene algo especial preparado.</description>
         </item>
         <item>
-            <link>https://rawgit.com/Cdoreno/DoremacNews/principal/public_html/html/news/news2.html</link>
-            <description>Agacharse y adoptar una postura incómoda forzando glúteos y piernas a fin de poder sacar una foto frontal del perro que poder compartirla en las redes sociales es ya el único ejercicio físico que realizan los españoles.</description>
-            <image>
-                <url>https://github.com/Cdoreno/DoremacNews/blob/principal/public_html/img/noticia2big.jpg</url>
-                <title>Foto al perro</title>
-                <link>https://rawgit.com/Cdoreno/DoremacNews/principal/public_html/html/news/news2.html</link>
-            </image>
-            <title>Agacharse para hacer fotos al perro es ya el único ejercicio que realizan los españoles</title>
+            <title>Need For Speed anunciado</title>
+            <link>https://rawgit.com/ZharkenD/Pagina-Noticias/master/news2.html</link>
+            <description>Ghost Games y Electronic Arts anuncian Need For Speed Payback, el nuevo título de la reconocida franquicia de acción y conducción, que se estará a la venta el próximo 10 de noviembre.</description>
         </item>
-    </channel>
+</chanel>
 </rss>
