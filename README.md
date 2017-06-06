@@ -23,3 +23,5 @@ https://rawgit.com/ZharkenD/Pagina-Noticias/master/index.html
  se vea mejor la versión para móviles.
 
 # Maquetación
+
+![Alt text](maquetacion/index.jpg?raw=true "Pagina Principal")
