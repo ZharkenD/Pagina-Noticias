@@ -10,10 +10,6 @@ body{
     background-color: darkgrey;
 }
 
-.jumbotron{
-    margin-left: 0px;
-}
-
 .navlink{
     color:black;
 }
@@ -112,6 +108,10 @@ body{
 
     .body{
         margin-bottom: 90px;
+    }
+
+    .jumbotron{
+        padding: 2px;
     }
 
 }
