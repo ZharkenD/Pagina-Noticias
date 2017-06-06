@@ -25,3 +25,5 @@ https://rawgit.com/ZharkenD/Pagina-Noticias/master/index.html
 # Maquetación
 
 ![PC](https://github.com/ZharkenD/Pagina-Noticias/blob/master/maquetacion/index.jpeg "Pagina Principal")
+![PC2](https://github.com/ZharkenD/Pagina-Noticias/blob/master/maquetacion/new.jpeg "Pagina de noticia")
+![Movil](https://github.com/ZharkenD/Pagina-Noticias/blob/master/maquetacion/mobile.jpeg "Movil")
