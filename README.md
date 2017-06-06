@@ -14,7 +14,12 @@ https://rawgit.com/ZharkenD/Pagina-Noticias/master/index.html
 
 # Notas:
 
-Solo se ha hecho uso de imágenes pequeñas y grandes en las dos primeras noticias, debido a que no tiene sentido
-incluir imagenes de más que no tienen utilidad alguna, y a que la mayoria de imagenes son pequeñas originalmente
-y al agrandarlas quedarian difuminadas. Sé que se deberia haber hecho al revés (poner imagenes grandes y
-redimensionarlas para hacerlas mas pequeñas) pero en estos momentos es tarde para rectificar.
+- Solo se ha hecho uso de imágenes pequeñas y grandes en las dos primeras noticias, debido a que no tiene sentido
+ incluir imagenes de más que no tienen utilidad alguna, y a que la mayoria de imagenes son pequeñas originalmente
+ y al agrandarlas quedarian difuminadas. Sé que se deberia haber hecho al revés (poner imagenes grandes y
+ redimensionarlas para hacerlas mas pequeñas) pero en estos momentos es tarde para rectificar.
+ 
+- Las descripciones de las noticias en la pagina principal son más cortas de lo que se podria esperar para que
+ se vea mejor la versión para móviles.
+
+
